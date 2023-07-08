@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### About Me :
 - I am a Software Development Engineer, currently located in California, but open to move.
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Cristian%20Vasiliu-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/cristian-vasiliu)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Cristian%20Vasiliu-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-vasiliu)
 ---
 ### My Languages and Tools :
 <div>
